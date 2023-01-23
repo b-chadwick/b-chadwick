@@ -32,3 +32,5 @@
 - Tinkering with Computers and Game Systems 
 - Gaming 
 
+#### Contact me: <a href="mailto:b.chadwickdevelopment@gmail.com">Here</a>
+
