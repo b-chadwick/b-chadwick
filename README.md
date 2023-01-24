@@ -32,5 +32,11 @@
 - Tinkering with Computers and Game Systems 
 - Gaming 
 
-#### Contact me: <a href="mailto:b.chadwickdevelopment@gmail.com">Here</a>
+#### Contact me: 
+
+<ul>
+  <li><a href="mailto:b.chadwickdevelopment@gmail.com">Email</a></li>
+  <li><a href="https://www.linkedin.com/in/benjamin-chadwick-685615263/">LinkedIn</a></li>
+</ul>
+
 
