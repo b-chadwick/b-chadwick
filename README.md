@@ -8,7 +8,7 @@
 - iOS Development - 1 year
 - Web Design/Development - 3 years 
   - HTML/CSS - 3 years 
-  - PHP - 1 yyear
+  - PHP - 1 year
   - JavaScript - 1 year 
 - mySQL - 2 years
 - Photoshop - 1 year 
