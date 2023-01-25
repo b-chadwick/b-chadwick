@@ -20,6 +20,7 @@
 - Laravel
 - Angular 
 - C#
+- Bootstrap
 - Android Development 
 - iOS Development 
 
