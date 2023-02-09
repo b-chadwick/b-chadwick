@@ -26,7 +26,7 @@
 
 ### My Interests:
 
-<p>I'm a big fan of all things web design/development related, building data driven web applications and Java based Desktop applications</p>
+<p>I'm a big fan of all things web design/development related, building data driven web applications and making the web a more accessible place.</p>
 
 ### Hobbies:
 - Graphic Design
