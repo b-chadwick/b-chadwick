@@ -23,6 +23,7 @@
 - Bootstrap
 - Android Development 
 - iOS Development 
+- Figma
 
 ### My Interests:
 
